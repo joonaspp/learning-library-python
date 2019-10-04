@@ -3,5 +3,5 @@
 @numpy <br>
 @pandas <br>
 @sklearn <br>
-  #logistic regression
+  #logistic regression <br>
   #knn
