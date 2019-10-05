@@ -1,7 +1,8 @@
 # learning_python
 
-numpy <br>
-pandas <br>
-sklearn <br>
+- numpy <br>
+- pandas <br>
+- sklearn <br>
 @logistic regression <br>
-@knn
+@knn <br>
+@svm
