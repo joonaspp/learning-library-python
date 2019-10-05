@@ -1,4 +1,4 @@
-# learning_python
+# learning-library-python
 
 - numpy <br>
 - pandas <br>
