@@ -1,10 +1,10 @@
 # learning-pyhton-libraries
 
 - <b>numpy</b> - <i>funções matemáticas, arrays e matrizes multidimensionais </i><br>
-- pandas - <i>manipulação e análise de dados</i><br>
-- sklearn - <i>aprendizado de máquina</i><br>
+- <b>pandas</b> - <i>manipulação e análise de dados</i><br>
+- <b>sklearn</b> - <i>aprendizado de máquina</i><br>
 @regressão linear <br>
 @regressão logística <br>
 @knn <br>
 @svm
-- opencv - <i>visão computacional</i><br>
+- <b>opencv</b> - <i>visão computacional</i><br>
