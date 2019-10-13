@@ -7,4 +7,4 @@
 @regressão logística <br>
 @knn <br>
 @svm
-- sklearn - <i>visão computacional</i><br>
+- opencv - <i>visão computacional</i><br>
