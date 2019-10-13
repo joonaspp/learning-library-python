@@ -1,6 +1,6 @@
 # learning-pyhton-libraries
 
-- numpy <br>
+- numpy - <i>manipulação e análise de dados</i><br>
 - pandas <br>
 - sklearn <br>
 @linear regression <br>
