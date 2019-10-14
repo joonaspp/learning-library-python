@@ -1,4 +1,4 @@
-# learning-pyhton-libraries
+# learning-python-libraries
 
 - <b>numpy</b> - <i>funções matemáticas, arrays e matrizes multidimensionais </i><br>
 - <b>pandas</b> - <i>manipulação e análise de dados</i><br>
