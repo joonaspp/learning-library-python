@@ -1,8 +1,3 @@
 # learning-python-libraries
 
-- <b>numpy</b> - <i>funções matemáticas, arrays e matrizes multidimensionais </i><br>
-- <b>pandas</b> - <i>manipulação e análise de dados</i><br>
-- <b>sklearn</b> - <i>aprendizado de máquina</i><br>
-@regressão logística <br>
-@knn <br>
-@svm
+![libraries](https://user-images.githubusercontent.com/38707925/84603101-25a7bf80-ae62-11ea-9118-bb4495b97e67.png)
